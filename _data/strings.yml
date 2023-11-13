@@ -123,6 +123,7 @@ resume:
   location_separator:  ', '
   email:               Email
   phone:               Phone
+  whatsapp:            WhatsApp
   website:             Website
   work:                Experience
   work_title:          <!--position--> at <!--company-->

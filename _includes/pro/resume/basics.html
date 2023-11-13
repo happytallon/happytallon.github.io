@@ -92,6 +92,18 @@
       <a href="tel:{{ basics.phone | replace:' ','' }}" class="external no-print-link tel p-tel">{{ basics.phone }}</a>
     </dd>
   {% endif %}
+  
+  {% if basics.whatsapp.size > 0 %}
+    {% assign short_whatsapp = basics.whatsapp | replace:' ','' | replace:'+','' | replace:'-','' | replace:'(','' | replace:')','' %}
+    <dt class="faded">
+      <span class="{{ icons.whatsapp | default:'icon-whatsapp' }}" title="{{ strings.resume.whatsapp | default:'WhatsApp' }}"></span>
+      <span class="sr-only">{{ strings.resume.whatsapp | default:"Whatsapp" }}</span>
+    </dt>
+    <dd class="bold">
+      <meta property="whatsapp" content="{{ basics.whatsapp }}"/>
+      <a href="https://wa.me/{{short_whatsapp}}" class="external no-print-link tel p-tel">{{ basics.whatsapp }}</a>
+    </dd>
+  {% endif %}
 
   {% if basics.website.size > 0 %}
     <dt class="faded">

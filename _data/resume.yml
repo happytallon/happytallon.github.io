@@ -4,7 +4,8 @@ basics:
   picture: /assets/img/photo.jpg
   #picture:  /assets/img/tallonic.gif
   email:    "srmarcovich@gmail.com"
-  phone:    "(+55) 11-96907-6662"
+  #phone:    "(+55) 11-96907-6662"
+  whatsapp: "(+55) 11-96907-6662"
   website:  "https://cauemarcovich.github.io/"
   summary: |
     I'm **Caue Marcovich**, a *game programmer/developer* from São Paulo, Brazil.  
