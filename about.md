@@ -17,7 +17,7 @@ Eventually, my father gifted me my first gaming console: a **Super Nintendo**. T
 
 Ever since, I've explored games from a variety of platforms and cultivated a deep-seated love for gaming in general.
 
-Nowadays, nearly all the areas of game development brings my interest, but most of them are more like hobbies. My professional focus, however, remains centered around game programming.
+Nowadays, nearly all the areas of game development piques my interest, but most of them are more like hobbies. My professional focus, however, remains centered around game programming.
 
 ## My Career:
 I've always dreamt of working in the gaming industry, although that wasn't where it all began...
@@ -25,7 +25,7 @@ I've always dreamt of working in the gaming industry, although that wasn't where
 #### As Web Developer
 My career as a developer began in 2013 at [**Level Up! Games**][levelup] as a **.NET Developer**, working on features for the company's websites. In 2015, I was selected to join a team responsible for starting the development of a game distribution platform in Brazil, known today as [**Hype**][hype].
 
-In 2016, I left **Level Up!** and started to think about my career. That's when I decided to create my first game using ***RPG Maker*** with a friend. Thanks to this game I realized that this was what I wanted to do, but I also understood that it wouldn't be easy as I thought. Therefore, I decided to find a .NET job and gradually study game development.
+In 2016, I left **Level Up!** and started to think about my career. That's when I decided to create my first game using ***RPG Maker*** with a friend. Thanks to this game I realized that this was what I wanted to do, but I also understood that it wouldn't be as easy as I thought. Therefore, I decided to find a .NET job and gradually study game development.
 
 In 2018, I got a position as a **Web Developer** at [**MadeinWeb**][madeinweb], which was one of my best experiences. Thanks to some amazing people, I had the opportunity to grow in different skills, both technical and soft. Meanwhile, I began my degree in *Digital Games at Cruzeiro do Sul* university and started working on some personal projects on my free time.
 
@@ -38,7 +38,7 @@ The whole experience was very challenging and I worked with amazing people, resu
 
 Later on, I had to seek new opportunities in the gaming industry. Fortunately, two more excellent companies came my way: [**Lunic Games**][lunic] and [**VRGlass**][vrglass].
 
-At [**Lunic Games**][lunic], I contributed as an *assistant programmer* on the [**Star Strikers: Galactic Soccer**][starstrikers]. Initially, I began by getting acquaintance studying the project code and doing the documentation, and afterwards, assisting in the code.
+At [**Lunic Games**][lunic], I contributed as an *assistant programmer* on the [**Star Strikers: Galactic Soccer**][starstrikers]. Initially, I got acquainted by studying the project code and doing the documentation, and afterwards, assisting in the code.
 
 At [**VRGlass**][vrglass], I worked on [**Virtual Town**][virtualtown], a metaverse environment that pushed me out of my comfort zone and gave me the opportunity to work with a lot of new technologies that I hadn't previously used.
 
@@ -46,13 +46,13 @@ For more in-depth insights into the projects, you can explore my [portfolio]."
 
 #### What is yet to come (^_^)
 
-I aspire to be a great game developer in the future, mainly looking at various aspects of the game production. And I'm always looking for a projects that can bring me to it.
+I aspire to be a great game developer in the future, mainly looking at various aspects of the game production. And I'm always looking for projects that can bring me to it.
 
 If you have any interest on my work, please, don't hesitate to contact me.
 I'm looking forward to hear from you! :)
 
 ## My favorite games:
-Here you can find my some of my favorite games (not by rate, because rates doesn't make sense):
+Here you can find my some of my favorite games (not by rate, because rates don't make sense):
 
 - Metroid series and a lot of metroidvanias (Ori, Hollow Knight, etc.)
 - Stardew Valley
