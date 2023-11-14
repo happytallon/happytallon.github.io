@@ -129,10 +129,19 @@ input[type=checkbox]:checked~ul {
   opacity: 1;
 }
 
-.nav-btn-bar {
-  height: 4rem;
+.navbar {
+  height: 4rem;  
+}
+
+#_navbar {
+  background-color: rgb(57, 62, 70);
 }
 
 .nav-btn {
+  height: 4rem;
+}
+
+.nav-btn-bar{
+  background-color: rgb(57, 62, 70);
   height: 4rem;
 }
