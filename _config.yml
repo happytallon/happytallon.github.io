@@ -16,7 +16,7 @@ timezone:              America/Sao_Paulo
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Trying to be a good game developer :)
+  This is my Game Developer Portfolio
 
 # A shorter description for the sidebar.
 tagline:               >
