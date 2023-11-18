@@ -15,14 +15,14 @@ basics:
       username: "Caue Marcovich"
       url: "https://www.linkedin.com/in/caue-marcovich/"
     - network: "Itchio"
-      username: "tallon300"
-      url: "https://tallon300.itch.io/"
+      username: "tallonic"
+      url: "https://tallonic.itch.io/"
     - network: "Gitlab"
-      username: "@happytallon"
+      username: "@tallonic"
       url: "https://gitlab.com/happytallon"
     - network: "Github"
-      username: "happytallon"
-      url: "https://github.com/happytallon"
+      username: "cauemarcovich"
+      url: "https://github.com/cauemarcovich"
 work:  
   - company: "VRGlass"
     position: "Unity Developer"
@@ -30,7 +30,7 @@ work:
     startDate: "2022-11-01"
     endDate: "2023-07-14"
     summary: |
-      I worked on [**Virtual Town**][virtualtown], a metaverse enviroment for B2B.
+      Experience as Unity Developer on [**Virtual Town**][virtualtown], a metaverse enviroment for B2B.
 
       [virtualtown]: /games/virtual-town/
     highlights:
@@ -44,7 +44,7 @@ work:
     startDate: "2022-10-24"
     endDate: "2023-01-16"
     summary: |
-      I worked as an *assistant programmer* on the game [**Star Strikers**][starstrikers].
+      Experience as Unity Developer on the game [**Star Strikers**][starstrikers].
       I was responsible for project *documentation* and the *championship system*.
 
       [starstrikers]: /games/star-strikers/
@@ -58,7 +58,7 @@ work:
     startDate: "2021-06-24"
     endDate: "2022-05-31"
     summary: |
-      I worked as the *main programmer* on the game [**The Adventures of Captain Cotton**][aventurasalgodao], which won the [***Best Children's Game***][aventurasalgodao-award] award at [***BIG Festival***][bigfestival].
+      Development of the game [**As Aventuras do Capitão Algodão**][aventurasalgodao], which won the [***Best Educational Game***][aventurasalgodao-award] award at [***BIG Festival***][bigfestival].
 
       [aventurasalgodao]: /games/cotton-captain/
       [aventurasalgodao-award]: https://games.bigfestival.com.br/BIG2022/game/
@@ -76,17 +76,18 @@ work:
     startDate: "2018-07-23"
     endDate: "2021-10-31"
     summary: >
-      I worked as a *web developer* and had a valuable experience with various projects at the company, with focus on backend development.
-      In the first 10 months, I was allocated to a client to refactor *VB* systems to *.NET*.
-      Subsequently, I worked in-house at MadeinWeb, contributing to various .NET projects.
+      Experience as a *Web Developer* with a focus on backend.
+
+      In the first 10 months, I was allocated to a client to refactor *VB* systems to *.NET*.  
+      Later, I worked in-house at MadeinWeb, contributing to several .NET projects.
   - company: "Level Up!"
     position: ".NET Developer"
     website: "https://br.leveluplatam.com/"
     startDate: "2011-11-08"
     endDate: "2016-05-17"
     summary: |
-      Initially, I worked as internal development support, and later, I started working as a *.NET Developer*.
-      Ultimately, I was selected to be part of a team with the goal of creating a sales platform in Brazil, now known as [**Hype**][hype].
+      Experience as a *.Net Developer* on the company's internal tools and website.  
+      I was also a part of a team with the goal of creating a sales platform in Brazil, now known as [**Hype**][hype].
 
       [hype]: https://hype.games/
 education:
@@ -115,15 +116,14 @@ skills:
     level: "Intermediate"
     keywords:
       - "2D"
-      - "Editor Scripting"
-      - "Packages"
-      - "Addressables"
       - "UI"
+      - "Editor Scripting"
+      - "Addressables"      
       - "More..."
   - name: ".NET"
     level: "Master"
     keywords:
-      - ".Net Framework 3.5+"
+      - ".Net Framework 3.5 ~ 8.0"
       - ".Net Core"
   - name: "Front End (HTML, CSS, JS + frameworks)"
     level: "Beginner"
@@ -160,12 +160,13 @@ interests:
   - name: "Musics"
     keywords:
       - "Game/Movie OST"
-      - "Rock"
+      - "Rock/Metal"
       - "Indie"
-      - "EDM"
+      - "Folk"
+      - "EDM"      
   - name: "Movies"
     keywords:
       - "Psychological Drama"
       - "Fantasy"
+      - "Animes"
       - "Thriller"
-      - "A lot of another types"
