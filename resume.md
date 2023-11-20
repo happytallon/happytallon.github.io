@@ -9,16 +9,17 @@ sidebar: true
 order: 2
 left_column:
  - work
- - education
+ #- education
  # - projects
  # - publications
  # - references
 right_column:
  - awards
+ - education
  # - volunteer 
  - skills
  - languages
- - interests
+ # - interests
 no_language_icons: false
 no_skill_icons: false
 buttons:  
