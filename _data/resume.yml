@@ -7,13 +7,14 @@ basics:
   #phone:    "(+55) 11-96907-6662"
   whatsapp: "(+55) 11-96907-6662"
   website:  "https://cauemarcovich.github.io/"
+  linkedin: "https://www.linkedin.com/in/caue-marcovich/"
   summary: |
     I'm **Caue Marcovich**, a *game programmer/developer* from São Paulo, Brazil.  
     If you have any interest on my work, please, don't hesitate to contact me. I'm always looking for meaninful projects. :)
   profiles:
-    - network: "LinkedIn"
-      username: "in/caue-marcovich"
-      url: "https://www.linkedin.com/in/caue-marcovich/"
+    # - network: "LinkedIn"
+    #   username: "in/caue-marcovich"
+    #   url: "https://www.linkedin.com/in/caue-marcovich/"
     - network: "Itchio"
       username: "tallonic"
       url: "https://tallonic.itch.io/"

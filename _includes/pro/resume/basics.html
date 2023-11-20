@@ -114,4 +114,14 @@
       <a href="{{ basics.website }}" class="external no-print-link url u-url" property="sameAs">{{ basics.website }}</a>
     </dd>
   {% endif %}
+  
+  {% if basics.linkedin.size > 0 %}
+    <dt class="faded">
+      <span class="{{ icons.linkedin | default:'icon-linkedin' }}" title="{{ strings.resume.linkedin | default:'LinkedIn' }}"></span>
+      <span class="sr-only">{{ strings.resume.linkedin | default:"LinkedIn" }}</span>
+    </dt>
+    <dd class="bold">
+      <a href="{{ basics.linkedin }}" class="external no-print-link url u-url" property="sameAs">{{ basics.linkedin }}</a>
+    </dd>
+  {% endif %}
 </dl>

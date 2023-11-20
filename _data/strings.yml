@@ -125,6 +125,7 @@ resume:
   phone:               Phone
   whatsapp:            WhatsApp
   website:             Website
+  linkedin:            LinkedIn
   work:                Experience
   work_title:          <!--position--> at <!--company-->
   highlights:          Highlights
