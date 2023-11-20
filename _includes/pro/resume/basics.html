@@ -121,7 +121,7 @@
       <span class="sr-only">{{ strings.resume.linkedin | default:"LinkedIn" }}</span>
     </dt>
     <dd class="bold">
-      <a href="{{ basics.linkedin }}" class="external no-print-link url u-url" property="sameAs">{{ basics.linkedin }}</a>
+      <a href="{{ basics.linkedin }}" class="external no-print-link url u-url" property="sameAs">{{ basics.linkedin | remove: "https://www.linkedin.com/" }}</a>
     </dd>
   {% endif %}
 </dl>

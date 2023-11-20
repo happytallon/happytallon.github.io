@@ -3,6 +3,9 @@ email:
   name: Email
   icon: icon-mail
   prepend: 'mailto:'
+website:
+  name: Website
+  icon: icon-home3
 amazon:
   name: Amazon
   icon: icon-amazon

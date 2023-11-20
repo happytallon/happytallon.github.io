@@ -6,15 +6,19 @@ basics:
   email:    "srmarcovich@gmail.com"
   #phone:    "(+55) 11-96907-6662"
   whatsapp: "(+55) 11-96907-6662"
-  website:  "https://cauemarcovich.github.io/"
+  #website:  "https://cauemarcovich.github.io/"
   linkedin: "https://www.linkedin.com/in/caue-marcovich/"
-  summary: |
-    I'm **Caue Marcovich**, a *game programmer/developer* from São Paulo, Brazil.  
-    If you have any interest on my work, please, don't hesitate to contact me. I'm always looking for meaninful projects. :)
+  summary: >
+    I'm Caue Marcovich, a game programmer/developer from São Paulo, Brazil.<br>
+    Here, I show you the most of the projects I've worked and share details about my education and career path.<br><br>
+    Take a look at my portfolio, and please reach out to me! I'm always looking for meaninful projects.
   profiles:
     # - network: "LinkedIn"
     #   username: "in/caue-marcovich"
     #   url: "https://www.linkedin.com/in/caue-marcovich/"
+    - network: "website"
+      username: "portfolio"
+      url: "https://cauemarcovich.github.io/"
     - network: "Itchio"
       username: "tallonic"
       url: "https://tallonic.itch.io/"
@@ -45,7 +49,7 @@ work:
     startDate: "2022-10-24"
     endDate: "2023-01-16"
     summary: |
-      Experience as Unity Developer on the game [**Star Strikers**][starstrikers].
+      Experience as Unity Developer on the game [**Star Strikers**][starstrikers].  
       I was responsible for project *documentation* and the *championship system*.
 
       [starstrikers]: /games/star-strikers/
@@ -76,10 +80,9 @@ work:
     website: "https://madeinweb.com.br/"
     startDate: "2018-07-23"
     endDate: "2021-10-31"
-    summary: >
-      Experience as a *Web Developer* with a focus on backend.
-
-      In the first 10 months, I was allocated to a client to refactor *VB* systems to *.NET*.  
+    summary: |
+      Experience as a *Web Developer* with a focus on backend.<br><br>
+      In the first 10 months, I was allocated to a client to refactor *VB* systems to *.NET*.<br>
       Later, I worked in-house at MadeinWeb, contributing to several .NET projects.
   - company: "Level Up!"
     position: ".NET Developer"
