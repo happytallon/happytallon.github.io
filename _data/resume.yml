@@ -8,10 +8,10 @@ basics:
   whatsapp: "(+55) 11-96907-6662"
   #website:  "https://cauemarcovich.github.io/"
   linkedin: "https://www.linkedin.com/in/caue-marcovich/"
-  summary: >
-    I'm Caue Marcovich, a game programmer/developer from São Paulo, Brazil.<br>
-    Here, I show you the most of the projects I've worked and share details about my education and career path.<br><br>
-    Take a look at my portfolio, and please reach out to me! I'm always looking for meaninful projects.
+  summary: |
+    I'm a game developer based in São Paulo, Brazil, working in the the game industry for 2 years and as a web developer for 7 years.<br><br>
+    I’m always up for a challenge, and looking for meaninful projects.
+    If you have any question, please don't hesitate to contact me. I'm looking forward to hear from you.
   profiles:
     # - network: "LinkedIn"
     #   username: "in/caue-marcovich"
@@ -101,7 +101,7 @@ education:
     startDate: "2018-07-01"
     endDate: "2020-06-30"
   - institution: "SENAI - Fundação Zerrenner"
-    area: "Informática Industrial"
+    area: "Inf. Industrial"
     studyType: "Certificate Program"
     startDate: "2009-01-01"
     endDate: "2010-12-31"
