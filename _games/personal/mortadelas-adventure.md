@@ -21,21 +21,21 @@ featured:    false
 <!-- This is commented out. -->
 
 **Mortadela's Adventure** unfolds the tale of four friends embarking in an *adventure* to accomplish a very special mission: eat the perfect [***Bologna Sandwich***][sandwich].  
-In this game, you must choose one of the four characters, finish quests to recruit your friends to the team, and finally gather at one of their homes to relish the iconic Bologna Sandwich.
+In this game, you must choose one of the four characters, complete quests to recruit your friends to the team, and finally gather at one of their homes to relish the iconic Bologna Sandwich.
 
-The burning question remains: will the bologna willingly embrace its fate?
+But the burning question remains: will the bologna willingly embrace its fate?
 
 ***
 
 ## My Contribution
-Back in mid-2016, a close friend and I decided to create a game together to learn about the world of game development. We chose the user-friendly [**RPG Maker VX Ace**][rpgmakervxace] engine and dedicated about 5 or 6 months of hard work. That's how we bring *Mortadela's Adventure* to life.
+In mid-2016, a close friend and I decided to create a game together to learn about the world of game development. We chose the user-friendly [**RPG Maker VX Ace**][rpgmakervxace] engine and dedicated about 5 or 6 months of hard work. That's how we brought *Mortadela's Adventure* to life.
 
 I worked on the *logic and scripting*, while my partner focused on art and map creation. In areas where our expertise fell short, like game design, audio, and narrative, we collaborated.
 
 Even though we opted for an "easy" engine, the project presented considerable challenges. 
 One major issue arose when we decided that the game wouldn't have character level progression. Since you choose a character and later recruit the others, the game was very difficult at the start and became easier as you recruited more friends. To address this, we had to make enemies scale in strength based on the number of players on the team.
 
-Another frustrating challenge was my lack of knowledge in Ruby. This version of RPG Maker uses [**RGSS3**][rgss3], a scripting language based on Ruby. This made my RPG Maker experience a bit painful.
+Another frustrating challenge was my lack of knowledge with the languages. This version of RPG Maker uses [**RGSS3**][rgss3], a scripting language based on Ruby, making my experience a bit painful. :sweat_smile:
 
 ***
 
@@ -44,7 +44,7 @@ Another frustrating challenge was my lack of knowledge in Ruby. This version of 
 - Game Balance
 - Quests
 - Skills Unlocks
-- A lot of in-game mechanics
+- Various in-game mechanics
 
 [sandwich]: https://en.wikipedia.org/wiki/Bologna_sandwich
 [rpgmakervxace]: https://www.rpgmakerweb.com/products/rpg-maker-vx-ace

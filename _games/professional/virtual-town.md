@@ -22,7 +22,7 @@ featured:    false
 
 **Virtual Town** is a *metaverse platform* created in Unity by [**VRGlass**][vrglass].
 
-Distributed as [*SAAS*][sass], the platform offers a several possibilities of customization and integrations with different types of services.
+Distributed as [*SAAS*][sass], the platform offers several possibilities for customization and integrations with different types of services.
 
 ***
 
@@ -32,20 +32,20 @@ As a metaverse platform, this project pushed me out of my comfort zone and broug
 Here is a list of what I worked on:
 - I collaborated with other programmers on the *project's refactoring*. Our goal was to transition the project into a *modular platform*, using *addressables* and *creating libraries* with the behaviours of the main project.
 
-- I was appointed to set up an internal company [*npm registry*][npmregistry] server. After selecting which one we were going to use, I have to make changes in all of the *project modules* to turn them into *packages* and upload them into the server. I also configured Unity to show all existing packages in the *registry server*.
+- I was appointed to set up an internal company [*npm registry*][npmregistry] server. After selecting which one we were going to use, I had to make changes in all of the *project modules* to turn them into *packages* and upload them to the server. I also configured Unity to show all existing packages in the *registry server*.
 
 - I worked on *fixing* some of the company's *minigames*. Most of them were *multiplayer* and it also required some modifications in the *multiplayer server*.
 
 - Lastly, I collaborated with a team to create a *user-friendly 3D Environment Generator* what would be accessible to the clients. This would allow clients to independently create their own environments in a *sandbox* scene.
 
-Beside the challenges, this period was really rewarding. The company had a wonderful team and it was a great experience.
+Despite the challenges, this period was truly rewarding. The company had a wonderful team and it was a great experience.
 
 ***
 
 ## Responsibilities
 - *Refactoring* of the main project using [*Addressables*][addressables] and [*Packages*][unitypackages]
-- Implementation of a [*npm registry*][npmregistry] server
-- Creation of *modules* (and change the existent ones) to perform as standalone libraries
+- Implementation of a internal [*npm registry*][npmregistry] server
+- Creation of *modules* (and modification of existent ones) to perform as standalone libraries
 - Enhancements and *bug fixes* for company's *minigames*
 - Minor adjustments to the *multiplayer server*
 - Creation of the *sandbox* functionality (3D environment generator)

@@ -22,14 +22,14 @@ featured:    false
 
 **Back in the Loop** is a classic [**shmup**] that tells the story of a *bounty hunter spaceship*.
 
-The gameplay is a one-shot gameplay, featuring a several enemy types and four challenging bosses.
+The gameplay is one-shot, featuring a several enemy types and four challenging bosses.
 The game offers 3 types of shots that are upgraded in parallel, depending on the player's choice, and a powerful shot that is unlocked after the player maximizes all other shots.
 
 ***
 
 ## My Contribution
 This project was my first polished game.
-Its core was developed during a course and, after course's conclusion, I expanded the project by adding more content.
+Its core was developed during a course, and after course's conclusion, I expanded the project by adding more content.
 
 While the project wasn't overwhelmingly complex, it demanded a considerable investment of time. Here are some of the mechanics I added:
 - **Power-ups:** I created 4 power-ups, each with its own independent level-up path. One of them is only unlocked when the other three are maximized.

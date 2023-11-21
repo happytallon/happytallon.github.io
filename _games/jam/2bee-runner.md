@@ -34,8 +34,8 @@ I only had help from a friend to find art and audio assets on the internet.
 ***
 
 ## Key Features
-- Similar mechanics to *Flappy Bird* with an *inverted world*
-- Scoring based on distance and collectible points :)
+- Mechanics similar to *Flappy Bird* with an *inverted world*
+- Scoring based on distance and collectible points :wink:
 - A beautiful tutorial by Erica Nascimento
 
 [gamedevtv]: https://itch.io/jam/gamedevtv-jam-2023/rate/2093661

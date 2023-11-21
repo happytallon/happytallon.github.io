@@ -23,7 +23,7 @@ featured:    false
 <!-- This is commented out. -->
 
 **Brick Breaker** is a clone of the classic *brick breaker* game.
-The game features *5 levels* and a internal *pixel art reader* to help the developer to create more levels.
+The game features *5 levels* and an internal *pixel art reader* to help the developer to create more levels.
 
 ***
 

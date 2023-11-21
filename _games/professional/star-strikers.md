@@ -29,9 +29,9 @@ For this project, I joined as a **freelancer**, assisting the game's programming
 
 Initially, I was appointed to *study the project* and *create the documentation*. We tought it would be a good way to get acquaintance with the project code.
 Afterwards, I took responsibility for the *championship game flow*. In this role, I received the art brief, and my task was to 
-reply it on unity and develop the championship game flow.
+implement it in Unity and develop the championship game flow.
 
-Another task that I had to perform was assist the other developers in a several *bug fixes* in different parts of the game.
+Another task that I had to perform was assisting the other developers in a several *bug fixes* in different parts of the game.
 
 Overall, it was a highly satisfying experience because the team was exceptionally talented and pleasant to work with.
 

@@ -21,16 +21,16 @@ featured:    false
 ---
 <!-- This is commented out. -->
 
-The game **As Aventuras do Capitão Algodão** (The Adventures of Cotton Captain), produced by [**Crenix Games**][crenix], narrates the journey of the chosen child and its mentor, the bunny *Algodão*, on a quest to restore balance to the city of *Outrolândia*. To complete this quest, they must cooperate with the city's inhabitants and solve *puzzles* to help them overcome their emotional, physical, and environmental challenges. Finally, they must face a terrible monster that thrives on these issues.
+The game **As Aventuras do Capitão Algodão**, produced by [**Crenix Games**][crenix], narrates the journey of the chosen child and its mentor, the bunny *Algodão*, on a quest to restore balance to the city of *Outrolândia*. To achieve this goal, they must cooperate with the city's inhabitants and solve *puzzles* to help them overcome emotional, physical, and environmental challenges. Finally, they must face a terrible monster that thrives on these issues.
 
 The game is remarkably captivating and presents a compelling narrative about friendship, courage, and the power of emotions.
 
 ***
 
 ## My Contribution
-In this game, I worked as the **main programmer** on the team, receiving guidance from the leads on the structure of the project.
-As the project evolved, the team expanded by bringing two additional programmers to help with the remaining puzzles.  
-It was an incredibly rewarding experience, not only because of the fantastic team but also for the theme itself, that I personally think are very important.
+In this game, I worked as the **main programmer** on the team, receiving guidance from the leads on the project's structure..
+As the project evolved, the team expanded by bringing two additional programmers to assist with the remaining puzzles.  
+It was an incredibly rewarding experience, not only because of the fantastic team but also for the theme itself, which I personally think is very important.
 
 ***
 
