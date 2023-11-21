@@ -23,7 +23,7 @@ right_column:
 no_language_icons: false
 no_skill_icons: false
 buttons:  
-  pdf: /assets/Resume.pdf
+  pdf: /assets/Caue Marcovich - Resume.pdf
   print: true
   #json: /assets/resume.json
 ---
